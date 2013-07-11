@@ -1,0 +1,14 @@
+{
+  "name": "to-array",
+  "repo": "cristiandouce/to-array",
+  "description": "Converts Array-like objects into Array.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
